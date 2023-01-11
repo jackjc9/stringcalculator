@@ -1,2 +1,2 @@
-# string-calculator
+# stringcalculator
 Simple  String Calculator
